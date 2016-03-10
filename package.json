@@ -1,0 +1,18 @@
+{
+  "name": "Zetta_Devices_PoC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "medea": "^1.0.2",
+    "rimraf": "^2.5.2",
+    "zetta": "^1.0.0-beta.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node index.js"
+  },
+  "author": "Laszlo Barabas",
+  "license": "ISC"
+}
